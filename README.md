@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Milkias</h1>
+<h3 align="center">Computer Science Student | Developer | Tech Enthusiast</h3>
 
-<!--
-**Milkiastolesa/milkiastolesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 2nd-year **Computer Science student** at ARSI University  
+- 💻 Passionate about **coding, programming, and building projects**  
+- 🌱 Currently learning **Full-Stack Development & Java**  
+- 🔥 Interested in **AI, Cybersecurity, and Networking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Skills & Technologies
+
+### 🔹 Programming Languages & Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
+
+---
+
+## 🔹 Tools & Frameworks
+- Git & GitHub  
+- Node.js  
+- React  
+- Tailwind CSS  
+- VS Code / IntelliJ IDEA  
+
+---
+
+## 📂 Featured Projects
+## 🤖 *Telegram Automatic Group Creator (Python)*
+
+A Python script that automatically creates up to 100 Telegram groups in under 10 minutes, using Pyrogram & Telegram API automation.
+Ideal for bulk group creation, Telegram marketing, or mass community setup.
+
+### 🔥 **MEBA Calculator (Android)**
+A modern rounded Android calculator app with colorful UI.
+
+### 💬 **Telegram Pokémon Auction Bot**
+Custom bot that handles Pokémon auctions, bidding, storage, and admin tools.
+
+### 🌐 **Web Login & Signup Page**
+Responsive authentication UI built with HTML/CSS/JS.
+
+### 🧮 **Simple Web Calculator**
+Beginner-friendly calculator made with JavaScript.
+
+> 💡 *More exciting projects coming soon…*
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://t.me/milkiasT" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="30" width="30"/>
+  
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+I love turning ideas into working code 🚀
