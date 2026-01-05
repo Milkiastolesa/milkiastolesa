@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 2nd-year **Computer Science student** at ARSI University  
-- 💻 Passionate about **coding, programming, and building projects**  
+- 💻 Passionate about **coding, programming, and building projects**                                                  ![Profile Views](https://komarev.com/ghpvc/?username=milkiastolesa&color=blue)
 - 🌱 Currently learning **Full-Stack Development & Java**  
 - 🔥 Interested in **AI, Cybersecurity, and Networking**
 
