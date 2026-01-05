@@ -40,7 +40,7 @@
   <a href="https://t.me/milkiasT" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/milkiastolesa" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="30" width="30"/>
     
   
