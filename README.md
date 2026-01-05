@@ -1,11 +1,17 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=milkiastolesa&color=blue&label=Profile+Views" alt="Profile Views" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Milkias</h1>
 <h3 align="center">Computer Science Student | Developer | Tech Enthusiast</h3>
 
 ## 🚀 About Me
 - 🎓 2nd-year **Computer Science student** at ARSI University  
-- 💻 Passionate about **coding, programming, and building projects**                                                                   ![Profile Views](https://komarev.com/ghpvc/?username=milkiastolesa&color=blue)
+- 💻 Passionate about **coding, programming, and building projects**                            
 - 🌱 Currently learning **Full-Stack Development & Java**  
 - 🔥 Interested in **AI, Cybersecurity, and Networking**
+
+- 
 
 ## 🧑‍💻 Skills & Technologies
 
@@ -36,9 +42,10 @@
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="30" width="30"/>
+    
   
   </a>
 </p>
 
-## ✨ Fun Fact
+## 
 I love turning ideas into working code 🚀
