@@ -35,30 +35,6 @@
 - Tailwind CSS  
 - VS Code / IntelliJ IDEA  
 
----
-
-## 📂 Featured Projects
-## 🤖 *Telegram Automatic Group Creator (Python)*
-
-A Python script that automatically creates up to 100 Telegram groups in under 10 minutes, using Pyrogram & Telegram API automation.
-Ideal for bulk group creation, Telegram marketing, or mass community setup.
-
-### 🔥 **MEBA Calculator (Android)**
-A modern rounded Android calculator app with colorful UI.
-
-### 💬 **Telegram Pokémon Auction Bot**
-Custom bot that handles Pokémon auctions, bidding, storage, and admin tools.
-
-### 🌐 **Web Login & Signup Page**
-Responsive authentication UI built with HTML/CSS/JS.
-
-### 🧮 **Simple Web Calculator**
-Beginner-friendly calculator made with JavaScript.
-
-> 💡 *More exciting projects coming soon…*
-
----
-
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://t.me/milkiasT" target="_blank">
