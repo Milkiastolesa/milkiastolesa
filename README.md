@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Milkias</h1>
-<h3 align="center">Computer Science Student | Developer</h3>
+<h3 align="center">Computer Science Student | Frontend Developer </h3>
 
-- 2nd-year **Computer Science student**
+
 - Passionate about **coding, programming, and building projects**
 - Currently learning **Full-Stack Development**
-- Interested in *AI*
+
 
 ### 🔹 Programming Languages & Technologies
 <p align="center">
@@ -26,15 +26,6 @@
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
 </p>
 
-## 🔹 Tools & Frameworks
-- Git & GitHub
-- Node.js
-- React
-- Tailwind CSS
-- VS Code / IntelliJ IDEA
-- MongoDB
-- SQL/MySQL
-- Vite
 
 ## 🔗 Connect With Me
 <p align="left">
@@ -45,8 +36,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="30" width="30"/>
   </a>
 </p>
-
-## 
-I love turning ideas into working code 🚀
-![Snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
